@@ -1,0 +1,16 @@
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\obj\Debug\otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\obj\Debug\otomasyon.Form1.resources
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.Cache
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\bin\Debug\Telerik.WinControls.dll
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\bin\Debug\TelerikCommon.dll
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\bin\Debug\Telerik.WinControls.xml
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\obj\Debug\otomasyon.Form2.resources
+C:\Users\CEVHER\Desktop\otomasyon\otomasyon\otomasyon\obj\Debug\otomasyon.RadForm1.resources
